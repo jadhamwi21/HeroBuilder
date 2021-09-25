@@ -1,0 +1,12 @@
+Hero Name : Axe
+Hero Speed : 550
+Hero Primary Attribute : Strength
+Hero Attributes(Strength - Agility - Intelligence) : 20 - 5012 - 50
+Hero Side : Dire
+---------------------------------------------------------------------------
+Hero Name : Phantom Lancer
+Hero Speed : 5023
+Hero Primary Attribute : Agility
+Hero Attributes(Strength - Agility - Intelligence) : 120 - 510 - 5023
+Hero Side : Radiant
+---------------------------------------------------------------------------
